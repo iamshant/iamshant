@@ -1,3 +1,23 @@
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class MLEngineer:
+
+    def __init__(self):
+        self.name = "Naim Shant"
+        self.role = "Machine Learning Practioner, Python Deveoloper"
+        self.language_spoken = ["Bangla", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = MLEngineer()
+me.say_hi()
+```
+
 ### Hey👋, I'm __Naim Shant__ !:computer:
 
 I am a deep learning and machine learning practitioner and learner. I am here to solve things, Learning a lot in the process.
