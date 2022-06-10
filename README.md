@@ -35,7 +35,7 @@ I am a deep learning and machine learning practitioner and learner. I am here to
 
 ## **Language and Tools**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?usernameiamshant=i&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamshant&theme=radical)
 ![Naim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamshant&hide=prs,issues,contribs?username=ThinamXx&count_private=true?username=ThinamXx&show_icons=true&theme=radical)
 
 **Quick Access:**
