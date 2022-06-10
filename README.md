@@ -11,7 +11,7 @@ I am a deep learning and machine learning practitioner and learner. I am here to
 ### Find me around:
 
 - [LinkedIn](https://www.linkedin.com/in/naimshant/) :earth_asia:
-- [Email](mailto: naimshant@gmail.com) :email: -->
+- [Email](mailto: naimshant@gmail.com) :email:
 
 ## **Language and Tools**
 
